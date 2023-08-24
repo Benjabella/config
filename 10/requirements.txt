@@ -1,0 +1,11 @@
+tqdm
+retry
+ipcalc
+six
+requests
+bs4
+termcolor
+colored == 1.4.4
+retrying
+colorama
+
